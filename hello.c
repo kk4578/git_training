@@ -1,7 +1,8 @@
 #include<stdio.h>
 int main()
 {
-scanf
+int n;
+scanf("%d",&n);
 printf("hi\n");
 return 0;
 }
