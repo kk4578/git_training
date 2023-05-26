@@ -1,0 +1,61 @@
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000..effe9b5
+--- /dev/null
++++ b/.gitignore
+@@ -0,0 +1 @@
++#*.c
+diff --git a/hell6.c b/hell6.c
+new file mode 100644
+index 0000000..12eb724
+--- /dev/null
++++ b/hell6.c
+@@ -0,0 +1,2 @@
++uikjsgfkh
++krgfjug
+diff --git a/hello3.c b/hello3.c
+index ab879f4..ed85ff7 100644
+--- a/hello3.c
++++ b/hello3.c
+@@ -1 +1,4 @@
+ fhkjh
++kjhkshgjh
++kjgfjhg
++dg
+diff --git a/hello4.c b/hello4.c
+new file mode 100644
+index 0000000..c83be47
+--- /dev/null
++++ b/hello4.c
+@@ -0,0 +1 @@
++hjguiklnb
+diff --git a/hello5.c b/hello5.c
+new file mode 100644
+index 0000000..f8b83d8
+--- /dev/null
++++ b/hello5.c
+@@ -0,0 +1,3 @@
++jgk;gjl
++hfjdjm,uhgjfugyjfughjkiushjkikj
++hsgfjghjdgskjfh
+diff --git a/hello6.c b/hello6.c
+new file mode 100644
+index 0000000..97ae340
+--- /dev/null
++++ b/hello6.c
+@@ -0,0 +1,2 @@
++ghjknbvgftyuij
++okjhgfdsertyui
+diff --git a/hello_git.c b/hello_git.c
+new file mode 100644
+index 0000000..96bf523
+--- /dev/null
++++ b/hello_git.c
+@@ -0,0 +1,7 @@
++#include<stdio.h>
++int main()
++{
++printf("h\n\n\n");
++  return 0;
++
++}
