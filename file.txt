@@ -1,7 +1,2 @@
-new line added 
-helllo this is new file 
-hello this is 3rd line of file 
-hello from main branch 
-helllo from new2 branch
-new line
+new line from github
 
