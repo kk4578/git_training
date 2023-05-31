@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "I am a post commit hook"
+exit 1
